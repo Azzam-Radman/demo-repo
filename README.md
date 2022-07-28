@@ -1,3 +1,3 @@
 # demo-repo
 
-demo git?
+demo git!
